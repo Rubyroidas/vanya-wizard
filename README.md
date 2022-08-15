@@ -1,6 +1,3 @@
-# Fucking calendar
+# Canada questions wizard
 
-Available in 3 languages:
-- english
-- russian
-- ukrainian
+TODO: readme
